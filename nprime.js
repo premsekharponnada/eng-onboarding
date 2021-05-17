@@ -28,3 +28,4 @@ const isPrime = (n) => {
  //print n primes
  console.log('First '+ num +'prime numbers are:');
  console.log(generatePrime(num));
+//end of file
